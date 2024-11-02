@@ -1,0 +1,12 @@
+forward
+turn-right
+backward
+forward
+turn-right
+forward
+forward
+turn-left
+backward
+stats
+print-statistics
+show-map

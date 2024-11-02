@@ -1,0 +1,17 @@
+forward
+turn-right
+start-macro
+forward
+forward
+turn-left
+fwd
+forward
+right
+end-macro
+stats
+print-statistics
+run-macro
+run-macro
+run-macro
+stats
+print-statistics
